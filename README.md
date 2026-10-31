@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-
-Terence Zhang andAlexander Kuo
+Terence Zhang and Alexander Kuo
